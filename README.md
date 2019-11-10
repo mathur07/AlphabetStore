@@ -12,7 +12,8 @@
         
 ##### Step 2:
     To run json server run this commands:
-        1. npm install -g json-server
-        2. json-server --watch db.json -p 4000
+        1. Move(cut & paste) the db.json file one directory up.
+        2. npm install -g json-server
+        3. json-server --watch db.json -p 4000
 
 The above app was made using Facebook's create-react-app .
