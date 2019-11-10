@@ -2,7 +2,7 @@
 
 **A basic implementation of React.js and Redux, Integrated with JsonDB.**
 
-#### To run this project on localhost(3000) follow the below steps:
+> To run this project on localhost(3000) follow the below steps:
     
 ##### Step 1:
     Npm configuration steps
