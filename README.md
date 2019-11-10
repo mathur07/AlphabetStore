@@ -11,9 +11,8 @@
         3. npm start    
         
 ##### Step 2:
-    Integrated with JsonDB
     To run json server run this commands:
         1. npm install -g json-server
         2. json-server --watch db.json -p 4000
 
-The above app was made usind Facebook's create-react-app
+The above app was made usind Facebook's create-react-app.
